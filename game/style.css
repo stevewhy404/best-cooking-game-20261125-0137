@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #1d1410;
+  font-family: "Trebuchet MS", "Segoe UI", Verdana, sans-serif;
+}
+#wrap {
+  width: 1280px;
+  margin: 0 auto;
+}
+#game {
+  display: block;
+  width: 1280px;
+  height: 720px;
+  background: #2a1d16;
+}
+#hint {
+  color: #d8c3a5;
+  font-size: 13px;
+  text-align: center;
+  padding: 8px 12px 12px;
+  line-height: 1.5;
+}
